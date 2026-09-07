@@ -5,13 +5,13 @@ about:
   head: 5739fd7
   archived: false
   latestVersion: ""
-  collectedAt: 2026-09-07T04:32:09Z
+  collectedAt: 2026-09-07T19:50:51Z
 timeline:
   created: 2012-12-22
   lastCommit: 2026-04-26
   lastRelease: 
 popularity:
-  star: 2226
+  star: 2227
   watcher: 70
   fork: 183
   release: 0
@@ -100,7 +100,7 @@ total:
   commit: 405
 ---
 path: /home/runner/.x-repo/github.com/onetrueawk/awk
-collectedAt: 2026-09-07T04:32:10Z
+collectedAt: 2026-09-07T19:50:53Z
 loc:
   Autoconf:
     code: 25957
@@ -261,7 +261,7 @@ checks:
       - 'Warn: 0 commits out of 6 are checked with a SAST tool'
 ---
 eget:
-  collectedAt: 2026-09-07T04:32:11+00:00
+  collectedAt: 2026-09-07T19:50:55+00:00
   platform:
     darwin/arm64:
       name:  null
