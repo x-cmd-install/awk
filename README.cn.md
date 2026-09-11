@@ -12,28 +12,7 @@ One true awk
 x install awk
 ```
 
-## 源代码
-
-- **上游仓库**: <https://github.com/onetrueawk/awk>
-- **许可证**: NOASSERTION
-
-## 流行度
-
-- **Star**: 2,227 · **Fork**: 183 · **开放 issue**: 124 · **贡献者**: 23
-
-## 累计统计
-
-- **发布数**: 0 · **已合并 PR**: 85 · **开放 PR**: 8 · **已关闭 issue**: 117 · **开放 issue**: 7 · **提交数**: 405
-
-## 最近活动
-
-| 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
-|---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 0 | 0 | 2 | 0 | 0 | 0 |
-| 90d | 2026-06-12 | 0 | 0 | 3 | 0 | 1 | 0 |
-| 360d | 2025-09-15 | 0 | 1 | 6 | 4 | 3 | 5 |
-
-## 代码规模
+## 代码洞察
 
 合计: **34,716** 行代码（覆盖前 5 种语言、共 **58** 个文件）。
 
@@ -55,6 +34,30 @@ x install awk
 - **Code-Review** (1/10) — Found 4/28 approved changesets -- score normalized to 1
 - **Dangerous-Workflow** (-1/10) — no workflows found
 
+## 源代码
+
+- **上游仓库**: <https://github.com/onetrueawk/awk>
+- **许可证**: NOASSERTION
+
+## 流行度
+
+- **Star**: 2,227 · **Fork**: 183 · **开放 issue**: 124 · **贡献者**: 23
+
+## 累计统计
+
+- **发布数**: 0 · **已合并 PR**: 85 · **开放 PR**: 8 · **已关闭 issue**: 117 · **开放 issue**: 7 · **提交数**: 405
+
+## 最近活动
+
+| 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
+|---|---|---:|---:|---:|---:|---:|---:|
+| 30d | 2026-08-12 | 0 | 0 | 2 | 0 | 0 | 0 |
+| last60d | 2026-07-13 | 0 | 0 | 2 | 0 | 0 | 0 |
+| 90d | 2026-06-13 | 0 | 0 | 3 | 0 | 1 | 0 |
+| last180d | 2026-03-15 | 0 | 1 | 6 | 1 | 3 | 3 |
+| 360d | 2025-09-16 | 0 | 1 | 6 | 4 | 3 | 5 |
+| last720d | 2024-09-21 | 0 | 2 | 6 | 12 | 4 | 20 |
+
 ## 改进这些数据
 
 awk 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索引维护——这是一份由 x-cmd 在安装时读取的精选 YAML 包列表。如果 `awk` 缺失、过期，或安装行为有问题，欢迎在该 repo 提 issue 或 PR：
@@ -64,4 +67,4 @@ awk 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索�
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T16:18:06Z._
+_数据快照: `data/card/260911.yml` · 2026-09-11T00:21:34Z._

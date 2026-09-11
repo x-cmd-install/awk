@@ -12,28 +12,7 @@ One true awk
 x install awk
 ```
 
-## Source
-
-- **Upstream**: <https://github.com/onetrueawk/awk>
-- **License**: NOASSERTION
-
-## Popularity
-
-- **Stars**: 2,227 · **Forks**: 183 · **Open issues**: 124 · **Contributors**: 23
-
-## Totals (cumulative)
-
-- **Releases**: 0 · **Merged PRs**: 85 · **Open PRs**: 8 · **Closed issues**: 117 · **Open issues**: 7 · **Commits**: 405
-
-## Recent activity
-
-| Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
-|---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 0 | 0 | 2 | 0 | 0 | 0 |
-| 90d | 2026-06-12 | 0 | 0 | 3 | 0 | 1 | 0 |
-| 360d | 2025-09-15 | 0 | 1 | 6 | 4 | 3 | 5 |
-
-## Code size
+## Code insight
 
 Total: **34,716** lines of code across **58** files in the top 5 languages.
 
@@ -55,6 +34,30 @@ Lowest-scoring checks:
 - **Code-Review** (1/10) — Found 4/28 approved changesets -- score normalized to 1
 - **Dangerous-Workflow** (-1/10) — no workflows found
 
+## Source
+
+- **Upstream**: <https://github.com/onetrueawk/awk>
+- **License**: NOASSERTION
+
+## Popularity
+
+- **Stars**: 2,227 · **Forks**: 183 · **Open issues**: 124 · **Contributors**: 23
+
+## Totals (cumulative)
+
+- **Releases**: 0 · **Merged PRs**: 85 · **Open PRs**: 8 · **Closed issues**: 117 · **Open issues**: 7 · **Commits**: 405
+
+## Recent activity
+
+| Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
+|---|---|---:|---:|---:|---:|---:|---:|
+| 30d | 2026-08-12 | 0 | 0 | 2 | 0 | 0 | 0 |
+| last60d | 2026-07-13 | 0 | 0 | 2 | 0 | 0 | 0 |
+| 90d | 2026-06-13 | 0 | 0 | 3 | 0 | 1 | 0 |
+| last180d | 2026-03-15 | 0 | 1 | 6 | 1 | 3 | 3 |
+| 360d | 2025-09-16 | 0 | 1 | 6 | 4 | 3 | 5 |
+| last720d | 2024-09-21 | 0 | 2 | 6 | 12 | 4 | 20 |
+
 ## Improve this data
 
 Install metadata for awk lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `awk` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -64,4 +67,4 @@ Install metadata for awk lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T16:18:06Z._
+_Snapshot: `data/card/260911.yml` · 2026-09-11T00:21:33Z._
