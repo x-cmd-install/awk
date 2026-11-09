@@ -41,7 +41,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 2,233 · **Forks**: 183 · **Open issues**: 124 · **Contributors**: 24
+- **Stars**: 2,233 · **Forks**: 182 · **Open issues**: 124 · **Contributors**: 24
 
 ## Totals (cumulative)
 
@@ -51,12 +51,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-09 | 0 | 0 | 0 | 0 | 0 | 2 |
-| last60d | 2026-09-09 | 0 | 1 | 0 | 0 | 0 | 5 |
-| 90d | 2026-08-10 | 0 | 2 | 1 | 0 | 0 | 6 |
-| last180d | 2026-05-12 | 0 | 2 | 1 | 1 | 2 | 6 |
-| 360d | 2025-11-13 | 0 | 6 | 1 | 3 | 3 | 14 |
-| last720d | 2024-11-18 | 0 | 7 | 1 | 12 | 4 | 37 |
+| 30d | 2026-10-10 | 0 | 0 | 1 | 0 | 0 | 2 |
+| last60d | 2026-09-10 | 0 | 1 | 1 | 0 | 0 | 5 |
+| 90d | 2026-08-11 | 0 | 2 | 1 | 0 | 0 | 6 |
+| last180d | 2026-05-13 | 0 | 2 | 1 | 1 | 2 | 6 |
+| 360d | 2025-11-14 | 0 | 6 | 1 | 3 | 3 | 14 |
+| last720d | 2024-11-19 | 0 | 7 | 1 | 12 | 4 | 37 |
 
 ## Improve this data
 
@@ -67,4 +67,4 @@ Install metadata for awk lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261108.yml` · 2026-11-08T05:58:31Z._
+_Snapshot: `data/card/261109.yml` · 2026-11-09T06:15:25Z._
