@@ -24,16 +24,6 @@ Total: **34,764** lines of code across **59** files in the top 5 languages.
 | Happy | 443 | 0 | 61 | 2 |
 | CHeader | 365 | 65 | 55 | 2 |
 
-## OpenSSF Scorecard
-
-Overall score: **2.1 / 10**
-
-Lowest-scoring checks:
-
-- **Code-Review** (1/10) — Found 4/28 approved changesets -- score normalized to 1
-- **Token-Permissions** (-1/10) — No tokens found
-- **Maintained** (0/10) — 0 commit(s) and 0 issue activity found in the last 90 days -- score normalized to 0
-
 ## Source
 
 - **Upstream**: <https://github.com/onetrueawk/awk>
@@ -51,12 +41,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-10 | 0 | 0 | 1 | 0 | 0 | 2 |
-| last60d | 2026-09-10 | 0 | 1 | 1 | 0 | 0 | 5 |
-| 90d | 2026-08-11 | 0 | 2 | 1 | 0 | 0 | 6 |
-| last180d | 2026-05-13 | 0 | 2 | 1 | 1 | 2 | 6 |
-| 360d | 2025-11-14 | 0 | 6 | 1 | 3 | 3 | 14 |
-| last720d | 2024-11-19 | 0 | 7 | 1 | 12 | 4 | 37 |
+| 30d | 2026-10-11 | 0 | 0 | 1 | 0 | 0 | 2 |
+| last60d | 2026-09-11 | 0 | 1 | 1 | 0 | 0 | 5 |
+| 90d | 2026-08-12 | 0 | 2 | 1 | 0 | 0 | 6 |
+| last180d | 2026-05-14 | 0 | 2 | 1 | 1 | 2 | 6 |
+| 360d | 2025-11-15 | 0 | 6 | 1 | 3 | 3 | 14 |
+| last720d | 2024-11-20 | 0 | 7 | 1 | 12 | 4 | 37 |
 
 ## Improve this data
 
@@ -67,4 +57,4 @@ Install metadata for awk lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261109.yml` · 2026-11-09T06:15:25Z._
+_Snapshot: `data/card/261110.yml` · 2026-11-10T07:11:59Z._
