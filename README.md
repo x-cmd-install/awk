@@ -31,22 +31,22 @@ Total: **34,764** lines of code across **59** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 2,233 · **Forks**: 182 · **Open issues**: 124 · **Contributors**: 24
+- **Stars**: 2,234 · **Forks**: 182 · **Open issues**: 124 · **Contributors**: 24
 
 ## Totals (cumulative)
 
-- **Releases**: 0 · **Merged PRs**: 91 · **Open PRs**: 2 · **Closed issues**: 117 · **Open issues**: 7 · **Commits**: 423
+- **Releases**: 0 · **Merged PRs**: 91 · **Open PRs**: 4 · **Closed issues**: 117 · **Open issues**: 7 · **Commits**: 423
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-11 | 0 | 0 | 1 | 0 | 0 | 2 |
-| last60d | 2026-09-11 | 0 | 1 | 1 | 0 | 0 | 5 |
-| 90d | 2026-08-12 | 0 | 2 | 1 | 0 | 0 | 6 |
-| last180d | 2026-05-14 | 0 | 2 | 1 | 1 | 2 | 6 |
-| 360d | 2025-11-15 | 0 | 6 | 1 | 3 | 3 | 14 |
-| last720d | 2024-11-20 | 0 | 7 | 1 | 12 | 4 | 37 |
+| 30d | 2026-10-12 | 0 | 0 | 3 | 0 | 0 | 2 |
+| last60d | 2026-09-12 | 0 | 1 | 3 | 0 | 0 | 5 |
+| 90d | 2026-08-13 | 0 | 2 | 3 | 0 | 0 | 6 |
+| last180d | 2026-05-15 | 0 | 2 | 3 | 1 | 2 | 6 |
+| 360d | 2025-11-16 | 0 | 6 | 3 | 3 | 3 | 14 |
+| last720d | 2024-11-21 | 0 | 7 | 3 | 12 | 4 | 37 |
 
 ## Improve this data
 
@@ -57,4 +57,4 @@ Install metadata for awk lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261110.yml` · 2026-11-10T07:11:59Z._
+_Snapshot: `data/card/261111.yml` · 2026-11-11T06:05:37Z._
