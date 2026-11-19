@@ -24,6 +24,16 @@ x install awk
 | Happy | 443 | 0 | 61 | 2 |
 | CHeader | 365 | 65 | 55 | 2 |
 
+## OpenSSF Scorecard 评分
+
+总评分: **3.9 / 10**
+
+评分最低的几项:
+
+- **Dangerous-Workflow** (-1/10) — no workflows found
+- **Token-Permissions** (-1/10) — No tokens found
+- **Packaging** (-1/10) — packaging workflow not detected
+
 ## 源代码
 
 - **上游仓库**: <https://github.com/onetrueawk/awk>
@@ -41,12 +51,12 @@ x install awk
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-18 | 0 | 0 | 3 | 0 | 0 | 2 |
-| last60d | 2026-09-18 | 0 | 1 | 3 | 0 | 0 | 4 |
-| 90d | 2026-08-19 | 0 | 1 | 3 | 0 | 0 | 5 |
-| last180d | 2026-05-21 | 0 | 2 | 3 | 1 | 2 | 6 |
-| 360d | 2025-11-22 | 0 | 6 | 3 | 3 | 3 | 14 |
-| last720d | 2024-11-27 | 0 | 7 | 3 | 12 | 4 | 37 |
+| 30d | 2026-10-20 | 0 | 0 | 3 | 0 | 0 | 2 |
+| last60d | 2026-09-20 | 0 | 1 | 3 | 0 | 0 | 4 |
+| 90d | 2026-08-21 | 0 | 1 | 3 | 0 | 0 | 5 |
+| last180d | 2026-05-23 | 0 | 2 | 3 | 1 | 2 | 6 |
+| 360d | 2025-11-24 | 0 | 6 | 3 | 3 | 3 | 14 |
+| last720d | 2024-11-29 | 0 | 7 | 3 | 12 | 4 | 37 |
 
 ## 改进这些数据
 
@@ -57,4 +67,4 @@ awk 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索�
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261117.yml` · 2026-11-17T09:41:40Z._
+_数据快照: `data/card/261119.yml` · 2026-11-19T07:45:47Z._
